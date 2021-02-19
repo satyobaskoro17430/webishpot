@@ -1,0 +1,19 @@
+.product{
+	padding-left: 10vw;
+}
+.product h2{
+	width: 80vw;
+}
+.product .item{
+	width: 15vw;
+	float: left;
+	margin-right: 6.6vw;
+}
+.product .item img{
+	width: 100%;
+	border-radius: 5px;
+	margin-bottom: 3vh;
+}
+.product .item p{
+	text-align: center;
+}
